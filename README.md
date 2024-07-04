@@ -1,16 +1,100 @@
-# ecommerce_app
+# 🛒 E-Commerce App
 
-A new Flutter project.
+A **scalable and feature-rich e-commerce mobile application** built with Flutter that enables users to browse products, manage their cart, and perform secure checkout. The app integrates Firebase for authentication, real-time data management, and backend services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔑 **User Authentication:** Secure sign-up and login using Firebase Authentication.
+- 🛍️ **Product Browsing:** Browse products with categories and search functionality.
+- 🛒 **Cart Management:** Add/remove products, view cart, and update quantities.
+- 📦 **Order Management:** Place orders and view order history.
+- 👤 **Profile Management:** View and update user profile information.
+- 🎨 **Smooth UI/UX:** Clean interface with Material 3 design and responsive layouts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screens
+
+**Login Page**  
+![Login](screen_images/login.png)
+
+**Home Page**  
+![Home](screen_images/homescreen.jpj)
+
+**Product List**  
+![Products](screen_images/homescreen2.jpg)
+
+**Product Details Page**  
+![Product Details](screen_images/productdetailscreen.jpj)
+
+**Cart Page**  
+![Cart](screen_images/cartscreen.jpj)
+
+**Profile Page**  
+![Profile](screen_images/profilescreen.jpg)
+
+**Liked Items Page**  
+![Liked Items](screen_images/liked_items_screen.jpj)
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter, Dart
+- **Backend & Database:** Firebase Firestore, Firebase Authentication
+- **UI:** Google Fonts (Mulish), Material 3
+- **State Management:** setState (built-in Flutter state management)
+
+---
+
+## 🚀 Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/<Vastu-verma>/ecommerce_app.git
+cd ecommerce_app
+```
+
+2. **Install dependencies:**
+```bash
+flutter pub get
+```
+
+3. **Configure Firebase:**  
+   Ensure you have your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS/macOS) in the appropriate folders. Firebase initialization is already included in `main.dart`.
+
+4. **Run the app:**
+```bash
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+ecommerce_app/
+│
+├─ lib/
+│ ├─ firebase_options.dart
+│ ├─ main.dart
+│ ├─ screens/
+│ │ ├─ auth_screens/
+│ │ │ └─ login_page.dart
+│ │ ├─ home_screens/
+│ │ └─ cart_screens/
+│ └─ widgets/
+├─ assets/
+│ ├─ images/
+└─ pubspec.yaml
+
+
+---
+
+## 📬 Contact
+
+**Developer:** Vastu 
+**Email:** [vastuverma27@gmail.com](mailto:vastuverma27@gmail.com)
+**GitHub:** [https://github.com/vastu-verma](https://github.com/Vastu-verma)
