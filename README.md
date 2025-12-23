@@ -77,6 +77,6 @@ flutter run
 
 ## 📬 Contact
 
--**Developer:** Vastu 
--**Email:** [vastuverma27@gmail.com](mailto:vastuverma27@gmail.com)
--**GitHub:** [https://github.com/vastu-verma](https://github.com/Vastu-verma)
+**Developer:** Vastu 
+**Email:** [vastuverma27@gmail.com](mailto:vastuverma27@gmail.com)
+**GitHub:** [https://github.com/vastu-verma](https://github.com/Vastu-verma)
