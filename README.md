@@ -21,22 +21,22 @@ A **scalable and feature-rich e-commerce mobile application** built with Flutter
 ![Login](screen_images/login.png)
 
 **Home Page**  
-![Home](screen_images/homescreen.jpj)
+![Home](screen_images/homescreen.jpg)
 
 **Product List**  
 ![Products](screen_images/homescreen2.jpg)
 
 **Product Details Page**  
-![Product Details](screen_images/productdetailscreen.jpj)
+![Product Details](screen_images/productdetailscreen.jpg)
 
 **Cart Page**  
-![Cart](screen_images/cartscreen.jpj)
+![Cart](screen_images/cartscreen.jpg)
 
 **Profile Page**  
 ![Profile](screen_images/profilescreen.jpg)
 
 **Liked Items Page**  
-![Liked Items](screen_images/liked_items_screen.jpj)
+![Liked Items](screen_images/liked_items_screen.jpg)
 
 
 ---
