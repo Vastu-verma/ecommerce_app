@@ -73,28 +73,10 @@ flutter run
 
 ---
 
-## 📂 Project Structure
 
-ecommerce_app/
-│
-├─ lib/
-│ ├─ firebase_options.dart
-│ ├─ main.dart
-│ ├─ screens/
-│ │ ├─ auth_screens/
-│ │ │ └─ login_page.dart
-│ │ ├─ home_screens/
-│ │ └─ cart_screens/
-│ └─ widgets/
-├─ assets/
-│ ├─ images/
-└─ pubspec.yaml
-
-
----
 
 ## 📬 Contact
 
-**Developer:** Vastu 
-**Email:** [vastuverma27@gmail.com](mailto:vastuverma27@gmail.com)
-**GitHub:** [https://github.com/vastu-verma](https://github.com/Vastu-verma)
+-**Developer:** Vastu 
+-**Email:** [vastuverma27@gmail.com](mailto:vastuverma27@gmail.com)
+-**GitHub:** [https://github.com/vastu-verma](https://github.com/Vastu-verma)
